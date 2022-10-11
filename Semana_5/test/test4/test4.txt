@@ -1,0 +1,152 @@
+Nombre:
+
+Fecha:
+
+Periodo:
+
+                                                                                Capitales por departamento - Test 4
+
+1. Cual es la capital de Huancavelica?:
+	A. Huancayo
+	B. Cajamarca
+	C. Huaraz
+	D. Huancavelica
+
+2. Cual es la capital de Tacna?:
+	A. Tacna
+	B. Moyobamba
+	C. Huancayo
+	D. Puno
+
+3. Cual es la capital de Cusco?:
+	A. Moquegua
+	B. Piura
+	C. Cusco
+	D. Arequipa
+
+4. Cual es la capital de Lima?:
+	A. Lima
+	B. Pucallpa
+	C. Cerro de Pasco
+	D. Iquitos
+
+5. Cual es la capital de La Libertad?:
+	A. Puno
+	B. Trujillo
+	C. Piura
+	D. Huancayo
+
+6. Cual es la capital de Cajamarca?:
+	A. Cajamarca
+	B. Ayacucho
+	C. Cerro de Pasco
+	D. Chiclayo
+
+7. Cual es la capital de Madre de Dios?:
+	A. Puerto Maldonado
+	B. Moquegua
+	C. Cusco
+	D. Arequipa
+
+8. Cual es la capital de Apurímac?:
+	A. Puno
+	B. Piura
+	C. Abancay
+	D. Lima
+
+9. Cual es la capital de San Martín?:
+	A. Ica
+	B. Huancavelica
+	C. Moyobamba
+	D. Tacna
+
+10. Cual es la capital de Moquegua?:
+	A. Moquegua
+	B. Abancay
+	C. Chiclayo
+	D. Huánuco
+
+11. Cual es la capital de Amazonas?:
+	A. Moyobamba
+	B. Arequipa
+	C. Chachapoyas
+	D. Tacna
+
+12. Cual es la capital de Áncash?:
+	A. Abancay
+	B. Cusco
+	C. Huaraz
+	D. Huancavelica
+
+13. Cual es la capital de Lambayeque?:
+	A. Moyobamba
+	B. Trujillo
+	C. Chiclayo
+	D. Abancay
+
+14. Cual es la capital de Loreto?:
+	A. Piura
+	B. Iquitos
+	C. Trujillo
+	D. Pucallpa
+
+15. Cual es la capital de Piura?:
+	A. Chachapoyas
+	B. Huánuco
+	C. Piura
+	D. Huancayo
+
+16. Cual es la capital de Puno?:
+	A. Puno
+	B. Arequipa
+	C. Puerto Maldonado
+	D. Cajamarca
+
+17. Cual es la capital de Ica?:
+	A. Tumbes
+	B. Puno
+	C. Pucallpa
+	D. Ica
+
+18. Cual es la capital de Pasco?:
+	A. Puno
+	B. Puerto Maldonado
+	C. Cerro de Pasco
+	D. Pucallpa
+
+19. Cual es la capital de Ayacucho?:
+	A. Ayacucho
+	B. Huánuco
+	C. Huancayo
+	D. Huancavelica
+
+20. Cual es la capital de Tumbes?:
+	A. Tumbes
+	B. Ayacucho
+	C. Cusco
+	D. Piura
+
+21. Cual es la capital de Arequipa?:
+	A. Piura
+	B. Trujillo
+	C. Arequipa
+	D. Chiclayo
+
+22. Cual es la capital de Junín?:
+	A. Cusco
+	B. Huancayo
+	C. Puno
+	D. Huaraz
+
+23. Cual es la capital de Huánuco?:
+	A. Abancay
+	B. Iquitos
+	C. Cusco
+	D. Huánuco
+
+24. Cual es la capital de Ucayali?:
+	A. Pucallpa
+	B. Huaraz
+	C. Ayacucho
+	D. Chiclayo
+

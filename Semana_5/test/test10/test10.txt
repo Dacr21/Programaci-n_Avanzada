@@ -1,0 +1,152 @@
+Nombre:
+
+Fecha:
+
+Periodo:
+
+                                                                                Capitales por departamento - Test 10
+
+1. Cual es la capital de Madre de Dios?:
+	A. Moyobamba
+	B. Lima
+	C. Puerto Maldonado
+	D. Huancayo
+
+2. Cual es la capital de Amazonas?:
+	A. Cajamarca
+	B. Arequipa
+	C. Tumbes
+	D. Chachapoyas
+
+3. Cual es la capital de Ucayali?:
+	A. Pucallpa
+	B. Ica
+	C. Puerto Maldonado
+	D. Lima
+
+4. Cual es la capital de Tacna?:
+	A. Ica
+	B. Pucallpa
+	C. Tacna
+	D. Puerto Maldonado
+
+5. Cual es la capital de Moquegua?:
+	A. Ayacucho
+	B. Moquegua
+	C. Piura
+	D. Ica
+
+6. Cual es la capital de Loreto?:
+	A. Piura
+	B. Trujillo
+	C. Ayacucho
+	D. Iquitos
+
+7. Cual es la capital de Lambayeque?:
+	A. Chiclayo
+	B. Huancavelica
+	C. Tacna
+	D. Cusco
+
+8. Cual es la capital de Huancavelica?:
+	A. Arequipa
+	B. Cusco
+	C. Huancavelica
+	D. Piura
+
+9. Cual es la capital de Puno?:
+	A. Pucallpa
+	B. Moyobamba
+	C. Puerto Maldonado
+	D. Puno
+
+10. Cual es la capital de Huánuco?:
+	A. Piura
+	B. Tacna
+	C. Huánuco
+	D. Moquegua
+
+11. Cual es la capital de Lima?:
+	A. Ica
+	B. Chiclayo
+	C. Lima
+	D. Moyobamba
+
+12. Cual es la capital de Apurímac?:
+	A. Cerro de Pasco
+	B. Abancay
+	C. Chachapoyas
+	D. Cajamarca
+
+13. Cual es la capital de La Libertad?:
+	A. Trujillo
+	B. Pucallpa
+	C. Huancavelica
+	D. Tacna
+
+14. Cual es la capital de San Martín?:
+	A. Moyobamba
+	B. Cajamarca
+	C. Puno
+	D. Cerro de Pasco
+
+15. Cual es la capital de Áncash?:
+	A. Huaraz
+	B. Cajamarca
+	C. Trujillo
+	D. Iquitos
+
+16. Cual es la capital de Arequipa?:
+	A. Arequipa
+	B. Huaraz
+	C. Ayacucho
+	D. Tumbes
+
+17. Cual es la capital de Cajamarca?:
+	A. Pucallpa
+	B. Arequipa
+	C. Cajamarca
+	D. Huánuco
+
+18. Cual es la capital de Tumbes?:
+	A. Cusco
+	B. Tumbes
+	C. Pucallpa
+	D. Chachapoyas
+
+19. Cual es la capital de Ayacucho?:
+	A. Tumbes
+	B. Chachapoyas
+	C. Chiclayo
+	D. Ayacucho
+
+20. Cual es la capital de Junín?:
+	A. Tacna
+	B. Puno
+	C. Huancayo
+	D. Puerto Maldonado
+
+21. Cual es la capital de Piura?:
+	A. Cajamarca
+	B. Ica
+	C. Arequipa
+	D. Piura
+
+22. Cual es la capital de Cusco?:
+	A. Cusco
+	B. Tacna
+	C. Puerto Maldonado
+	D. Puno
+
+23. Cual es la capital de Pasco?:
+	A. Cerro de Pasco
+	B. Ayacucho
+	C. Abancay
+	D. Tacna
+
+24. Cual es la capital de Ica?:
+	A. Piura
+	B. Ica
+	C. Huánuco
+	D. Huaraz
+

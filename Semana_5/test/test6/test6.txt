@@ -1,0 +1,152 @@
+Nombre:
+
+Fecha:
+
+Periodo:
+
+                                                                                Capitales por departamento - Test 6
+
+1. Cual es la capital de Pasco?:
+	A. Cerro de Pasco
+	B. Pucallpa
+	C. Ayacucho
+	D. Puerto Maldonado
+
+2. Cual es la capital de Moquegua?:
+	A. Tacna
+	B. Cajamarca
+	C. Abancay
+	D. Moquegua
+
+3. Cual es la capital de Tacna?:
+	A. Tacna
+	B. Arequipa
+	C. Lima
+	D. Ayacucho
+
+4. Cual es la capital de Arequipa?:
+	A. Arequipa
+	B. Lima
+	C. Ayacucho
+	D. Abancay
+
+5. Cual es la capital de Ica?:
+	A. Tumbes
+	B. Ica
+	C. Moquegua
+	D. Ayacucho
+
+6. Cual es la capital de Huánuco?:
+	A. Huánuco
+	B. Trujillo
+	C. Puerto Maldonado
+	D. Chachapoyas
+
+7. Cual es la capital de Lima?:
+	A. Cajamarca
+	B. Pucallpa
+	C. Puno
+	D. Lima
+
+8. Cual es la capital de Ayacucho?:
+	A. Moquegua
+	B. Huaraz
+	C. Ayacucho
+	D. Cerro de Pasco
+
+9. Cual es la capital de Amazonas?:
+	A. Huánuco
+	B. Pucallpa
+	C. Cerro de Pasco
+	D. Chachapoyas
+
+10. Cual es la capital de Cajamarca?:
+	A. Cajamarca
+	B. Lima
+	C. Huancavelica
+	D. Piura
+
+11. Cual es la capital de Junín?:
+	A. Trujillo
+	B. Ica
+	C. Cajamarca
+	D. Huancayo
+
+12. Cual es la capital de Cusco?:
+	A. Trujillo
+	B. Cusco
+	C. Moquegua
+	D. Tumbes
+
+13. Cual es la capital de Lambayeque?:
+	A. Cerro de Pasco
+	B. Huancavelica
+	C. Chiclayo
+	D. Puerto Maldonado
+
+14. Cual es la capital de Loreto?:
+	A. Arequipa
+	B. Moyobamba
+	C. Tumbes
+	D. Iquitos
+
+15. Cual es la capital de Piura?:
+	A. Huánuco
+	B. Piura
+	C. Iquitos
+	D. Puerto Maldonado
+
+16. Cual es la capital de Huancavelica?:
+	A. Lima
+	B. Huancavelica
+	C. Moyobamba
+	D. Ayacucho
+
+17. Cual es la capital de Apurímac?:
+	A. Ica
+	B. Puno
+	C. Abancay
+	D. Chiclayo
+
+18. Cual es la capital de Áncash?:
+	A. Huaraz
+	B. Lima
+	C. Cajamarca
+	D. Moyobamba
+
+19. Cual es la capital de Ucayali?:
+	A. Cajamarca
+	B. Pucallpa
+	C. Puno
+	D. Trujillo
+
+20. Cual es la capital de San Martín?:
+	A. Puno
+	B. Moyobamba
+	C. Iquitos
+	D. Lima
+
+21. Cual es la capital de Puno?:
+	A. Tumbes
+	B. Puno
+	C. Cajamarca
+	D. Puerto Maldonado
+
+22. Cual es la capital de La Libertad?:
+	A. Cusco
+	B. Lima
+	C. Trujillo
+	D. Huaraz
+
+23. Cual es la capital de Tumbes?:
+	A. Trujillo
+	B. Puno
+	C. Tumbes
+	D. Moyobamba
+
+24. Cual es la capital de Madre de Dios?:
+	A. Arequipa
+	B. Piura
+	C. Puerto Maldonado
+	D. Huánuco
+
